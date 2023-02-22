@@ -1,4 +1,4 @@
 void main()
 {
-	print("you are a beautiful girl");
+	printf("you are a beautiful girl");
 }
